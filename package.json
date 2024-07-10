@@ -2,7 +2,7 @@
   "name": "react-display-pptx",
   "version": "1.0.0",
   "description": "Display .pptx files in a React app.",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
