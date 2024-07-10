@@ -1,0 +1,30 @@
+{
+  "name": "react-display-pptx",
+  "version": "1.0.0",
+  "description": "Display .pptx files in a React app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasoncardinale/react-display-pptx.git"
+  },
+  "keywords": [
+    "react",
+    "pptx",
+    "display"
+  ],
+  "author": "Jason Cardinale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasoncardinale/react-display-pptx/issues"
+  },
+  "homepage": "https://github.com/jasoncardinale/react-display-pptx#readme",
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "react": "^18.3.1",
+    "tslib": "^2.6.3",
+    "typescript": "^5.5.3"
+  }
+}
